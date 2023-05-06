@@ -15,7 +15,7 @@ The fourth element: a light green background, a font size of 24px, and bold
     font-size: 36px;
 }
 
-.odd.sized, #fourth {
+.sized-font {
     font-size: 24px;
 }
 
