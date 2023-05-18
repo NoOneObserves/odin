@@ -1,3 +1,33 @@
 html {
     background-color: #ede0d1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text.logo, h1 {
+    font-size: 50px;
+}
+
+#home {
+    padding: 20%;
+}
+
+.title {
+    color: #e79b7f;
+    text-align: center;
+}
+
+.text {
+    color: #cba15d;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+}
+
+.text.logo {
+    text-align: center;
 }
