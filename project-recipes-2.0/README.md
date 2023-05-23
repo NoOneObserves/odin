@@ -11,7 +11,7 @@ This is the updated version of the [recipe website](https://github.com/NoOneObse
 
 
 ## Thoughts and Process
-First of all, I used canva to decide the new style for the website: consequently, I modified the homepage to make it more visually interactive. 
+First of all, I used canva to decide the new style for the website: consequently, I modified the homepage (the html file) to make it more visually interactive. 
 
 The part where I list the recipes, was the hardest part to program especially with the margins. In fact, I couldn't align the subparagraphs.
 
