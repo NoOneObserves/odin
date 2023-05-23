@@ -18,3 +18,5 @@ The part where I list the recipes, was the hardest part to program especially wi
 After this, the styling for the recipes was a breeze to make.
 The only problem was figuring out when to use ```class``` and ```id``` but I make it somehow.
 
+To write the README sections, I follow the [GitHub Docs](https://docs.github.com/en/get-started) and I also learn how to link a live code using this site:
+https://htmlpreview.github.io/ .
