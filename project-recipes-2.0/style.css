@@ -49,10 +49,12 @@ h3 {
 }
 
 .recipe {
-    width: 100%;
+    width: 800px;
+    height: 530px;
     border-radius: 50%;
     border:4px solid #e79b7f;
     padding-bottom: 1;
+    box-sizing: border-box;
 }
 
 .ingredients-block, .step-block {
