@@ -1,2 +1,3 @@
-# odin
-All the practical projects from the Odin Project.
+# Info
+
+All the exercise and projects from The Odin Project.
