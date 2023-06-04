@@ -16,11 +16,17 @@ body, ul {
     padding: 0px;
     gap: 16px;
   }
+
+  /* Instead of gap !
+  li {
+    margin-bottom: 16px;
+  } */
   
   a {
     text-decoration: none;
     color: white;
   }
+  
   
   .header {
     height: 72px;
@@ -44,29 +50,29 @@ body, ul {
   
   .container {
     display: flex;
-    flex:auto;
+    flex: auto;
   }
 
   .sidebar {
+    width: 300px;
     background: royalblue;
     box-sizing: border-box;
     padding: 16px;
-    min-width: 300px;
-  }
-
-  .cards, .card {
-    padding: 32px;
+    flex-shrink: 0;
   }
 
   .cards {
+    padding: 32px;
     display: flex;
     flex-wrap: wrap;
     gap: 32px;
   }
 
   .card {
+    width: 300px;
     border: 1px solid #eee;
     box-shadow: 2px 4px 16px rgba(0,0,0,.06);
     border-radius: 4px;
-    max-width: 300px;
+    padding: 16px;
+    margin: 16px;
   }
