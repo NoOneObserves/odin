@@ -1,10 +1,16 @@
 # Landing Page
 This is just the exact web page suggested to do on the Odin Project's assignment.
 
+
+
 ## Desired outcome
 I decide to not add images or secondary links to focus more the creation of the page itself than its aestetic/purpose. 
+
 Here the desired outcome:
 ![desired outcome](./desired-outcome.png)
+
+
+
 
 ## Progress and thoughts
 I started to code the HTML first: I divided the outcome's images into 5 sections:
@@ -15,6 +21,8 @@ I started to code the HTML first: I divided the outcome's images into 5 sections
 5. Footer: `copyright` text 
 
 In the future, I'll do a personal Landing Page using this code!
+
+
 
 ### TO DO
 - html
