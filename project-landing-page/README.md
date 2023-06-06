@@ -13,7 +13,7 @@ Here the desired outcome:
 I started to code the HTML first: I divided the outcome's images into 5 sections:
 1. Header: has a `navigation bar`(logo + link) and a `main section` (text&button + img) 
 2. Info: 4 small `containers`(each one has: img + text on the bottom) align horizzontally and equally spaced
-3. Quote: a centered text with the autor
+3. Quote: a centered `text` with the autor
 4. Contact: tricky, a `modal`(text + button) centered on his section
 5. Footer: `copyright` text 
 
