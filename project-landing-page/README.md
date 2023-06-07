@@ -23,7 +23,6 @@ Probably, the most annoying part was to align the section to the center because 
 
 
 ### TO DO
-- css
-    -- info
-    -- quote
-    -- contact
+I need to do the css:
+- quote
+- contact
