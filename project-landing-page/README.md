@@ -1,5 +1,5 @@
 # Landing Page
-This is just the exact web page suggested to do on the Odin Project's assignment.
+This is just the exact web page suggested to do on the Odin Project's assignment. Click [here](https://htmlpreview.github.io/?https%3A%2F%2Fgithub.com%2FNoOneObserves%2Fodin%2Fblob%2Fmain%2Fproject-landing-page%2Findex.html=) to see the final result!
 
 
 ## Desired outcome
