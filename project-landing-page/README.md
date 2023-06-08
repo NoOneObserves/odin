@@ -14,7 +14,7 @@ Firstly, I divide the outcome's images into 5 sections:
 1. Hero: has a `navigation bar`(logo + link) and a `main section` (text&button + img) 
 2. Info: 4 small `containers`(each one has: img + text on the bottom) align horizzontally and equally spaced
 3. Quote: a centered `quote` with the autor
-4. Contact: tricky, a `modal` like (text + button) centered on his section 
+4. Contact: tricky, a `box` (text + button) centered on his section 
 5. Footer: a `copyright` mark
 
 I start to code the HTML with the CSS in mind, adding `div` and `class` where they were useful.
