@@ -18,7 +18,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 24px 200px;
+    margin: 24px 12%;
 }
 
 .logo {
@@ -47,7 +47,7 @@ a {
 }
 
 .main {
-    margin: 100px 200px;
+    margin:  5% 12%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -70,13 +70,13 @@ h1 {
 
 button {
     cursor: pointer;
-    padding: 8px 16px;
+    padding: 8px 0px;
     border-radius: 8px;
     background: #3882f8;
-    border: 1px solid #3882f8 ;
+    border: 1px solid #3882f8;
     color: white;
     font-weight: bold;
-    width: 120px; 
+    width: 100px; 
     margin: 15px 0px;
 }
 
@@ -159,6 +159,25 @@ h2 {
 }
 
 .contact {
+    padding: 6% 12%;
+}
+
+.box {
+    background-color: #3882f8;
+    border-radius: 8px;
+    padding: 3% 13%;
     display: flex;
     flex: auto;
+    justify-content: space-between;
+}
+
+.box .sign-up {
+    border: 2px solid white;
+    margin: 10px;
+}
+
+h3 , .text {
+    margin: 0;
+    padding: 0;
+    flex-shrink: 0;
 }
