@@ -150,7 +150,7 @@ h2 {
     color: #1F2937;
 }
 
-#autor {
+.autor {
     align-self: flex-end;
     color: #1F2937;
     font-size: 24px;
