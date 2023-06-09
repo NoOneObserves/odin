@@ -26,4 +26,4 @@ Probably, the only and most annoying part was to align the section to the center
 However, I had a big problem while I was coding the CSS and I need to improve on this aspect: how to reduce and "corporate" some reused portion of code. I hope to understand it in the future!  
 
 ### TO DO
-Optimaze the code!
+- Optimaze the code!
