@@ -15,13 +15,13 @@ Firstly, I divide the outcome's images into 5 sections:
 2. Info: 4 small `containers`(each one has: img + text on the bottom) align horizzontally and equally spaced
 3. Quote: a centered `quote` with the autor
 4. Contact: tricky, a `box` (text + button) centered on his section 
-5. Footer: a `copyright` mark
-&nbsp;  
+5. Footer: a `copyright` mark  
+
 I start to code the HTML with the CSS in mind, adding `div` and `class` where they were useful.
-After that I code the CSS: I styled each section one at the time and focused on the general appealing.
-&nbsp;  
-I loved using the flex-box method indeed, definitly a better option instead of the "grid" method.
-&nbsp;  
+After that I code the CSS: I styled each section one at the time and focused on the general appealing.  
+
+I loved using the flex-box method indeed, definitly a better option instead of the "grid" method.  
+
 Probably, the only and most annoying part was to align the section to the center because I didn't think how the shrinking would have effected on each one of them. SO FRUSTRATING!
 However, I had a big problem while I was coding the CSS and I need to improve on this aspect: how to reduce and "corporate" some reused portion of code. I hope to understand it in the future!  
 
