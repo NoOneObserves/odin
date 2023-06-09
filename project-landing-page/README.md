@@ -1,14 +1,14 @@
 # Landing Page
-This is just the exact web page suggested to do on the Odin Project's assignment. Click [here](https://htmlpreview.github.io/?https%3A%2F%2Fgithub.com%2FNoOneObserves%2Fodin%2Fblob%2Fmain%2Fproject-landing-page%2Findex.html=) to see the final result!
+This is just the exact web page suggested to do on the Odin Project's assignment. Click [here](https://htmlpreview.github.io/?https%3A%2F%2Fgithub.com%2FNoOneObserves%2Fodin%2Fblob%2Fmain%2Fproject-landing-page%2Findex.html=) to see the final result!  
 &nbsp;  
-&nbsp;  
+
 ## Desired outcome
-I decide to not add images or secondary links to focus more on the creation of the page itself than the aestetic or the purpose. In the future, I'll do a personal Landing Page using this code as inspiration!
-&nbsp;  
+I decide to not add images or secondary links to focus more on the creation of the page itself than the aestetic or the purpose. In the future, I'll do a personal Landing Page using this code as inspiration!  
+
 Here's the desired outcome:
-![desired outcome](./desired-outcome.png)
+![desired outcome](./desired-outcome.png)  
 &nbsp;  
-&nbsp;  
+
 ## Thoughts and Process
 Firstly, I divide the outcome's images into 5 sections:
 1. Hero: has a `navigation bar`(logo + link) and a `main section` (text&button + img) 
@@ -25,6 +25,5 @@ I loved using the flex-box method indeed, definitly a better option instead of t
 Probably, the only and most annoying part was to align the section to the center because I didn't think how the shrinking would have effected on each one of them. SO FRUSTRATING!
 However, I had a big problem while I was coding the CSS and I need to improve on this aspect: how to reduce and "corporate" some reused portion of code. I hope to understand it in the future!  
 
-&nbsp;  
 ### TO DO
 Optimaze the code!
