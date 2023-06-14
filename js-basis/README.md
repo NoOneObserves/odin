@@ -9,7 +9,7 @@ I'll link all the given assignment, so it will be more easly to follow the taks 
     1. [working with variables](https://javascript.info/task/hello-variables)
     2. [giving the right name](https://javascript.info/task/declare-variables)
     3. [uppercase const?](https://javascript.info/task/uppercast-constant)
-2. Numbers & Operators:
+2. Numbers:
     1. [postfix and prefix forms](https://javascript.info/task/increment-order)
     2. [assignment result](https://javascript.info/task/assignment-result)
     3. [type conversions](https://javascript.info/task/primitive-conversions-questions)
