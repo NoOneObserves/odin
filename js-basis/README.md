@@ -21,3 +21,4 @@ I'll link all the given assignment, so it will be more easly to follow the taks 
     1. [String quotes](https://javascript.info/task/string-quotes)
 4. Conditionals:
     1. [Comparison](https://javascript.info/task/comparison-questions)
+    2. [Logical operator](https://javascript.info/logical-operators#tasks)
