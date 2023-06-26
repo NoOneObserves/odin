@@ -18,7 +18,8 @@ I'll link all the given assignment, so it will be more easly to follow the taks 
     6. [math 2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Math#math_2)
     7. [math 3](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Test_your_skills:_Math#math_3)
 3. Data types:
-    1. [String quotes](https://javascript.info/task/string-quotes)
+    1. [string quotes](https://javascript.info/task/string-quotes)
 4. Conditionals:
-    1. [Comparison](https://javascript.info/task/comparison-questions)
-    2. [Logical operator](https://javascript.info/logical-operators#tasks)
+    1. [comparison](https://javascript.info/task/comparison-questions)
+    2. [logical operator](https://javascript.info/logical-operators#tasks)
+    3. [check login](https://javascript.info/task/check-login)
