@@ -37,8 +37,26 @@
         const choice = select.value;
 
         // ADD SWITCH STATEMENT
+        switch(choice) {
+            case 'black':
+                update('black', 'white');
+                break;
+            case 'purple':
+                update('purple', 'yellow');
+                break;
+            case 'yellow':
+                update('yellow', 'purple');
+                break;
+            case 'psychedelic':
+                update('lime', 'yellow');
+                break;
+            default:
+                update("white","black");
+                break;
+        }
         });
 
+        // Pass two color values: the first one for the background color, and the second one for the text color
         function update(bgColor, textColor) {
         html.style.backgroundColor = bgColor;
         html.style.color = textColor;
