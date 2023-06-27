@@ -23,3 +23,4 @@ I'll link all the given assignment, so it will be more easly to follow the taks 
     1. [comparison](https://javascript.info/task/comparison-questions)
     2. [logical operator](https://javascript.info/logical-operators#tasks)
     3. [check login](https://javascript.info/task/check-login)
+    4. [calendar](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals#active_learning_a_simple_calendar)
