@@ -26,3 +26,4 @@ I'll link all the given assignment, so it will be more easly to follow the taks 
     4. [calendar](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals#active_learning_a_simple_calendar)
     5. [more colors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals#active_learning_more_color_choices)
     6. [if else](https://javascript.info/ifelse#tasks)
+    7. [switch](https://javascript.info/switch#tasks)
