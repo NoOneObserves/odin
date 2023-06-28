@@ -7,14 +7,22 @@ if ("0") {
     alert( 'Hello' );
 }
 ```  
-**Will alert be shown?** 
+**Will alert be shown?** Yes, because it's not an empty string.  
   
 
 ## The name of JavaScript 
-Using the if..else construct, write the code which asks: ‘What is the “official” name of JavaScript?’  
+Using the `if..else construct`, write the code which asks: ‘What is the “official” name of JavaScript?’  
 If the visitor enters “ECMAScript”, then output “Right!”, otherwise – output: “You don’t know? ECMAScript!” 
 ```
+'use strict';
 
+let value = prompt('What is the "official" name of JavaScript?', '');
+
+if (value == 'ECMAScript') {
+    alert('Right!');
+} else {
+    alert("You don't know? ECMAScript!");
+}
 ```
   
 
@@ -25,7 +33,15 @@ Using if..else, write the code which gets a number via prompt and then shows in 
 - 0, if equals zero.  
 In this task we assume that the input is always a number.  
 ```
+let value = prompt('Type a number', 0);
 
+if (value > 0) {
+    alert(1);
+} else if (value < 0) {
+    alert(-1);
+} else {
+    alert(0);
+}
 ```
   
 
@@ -41,7 +57,7 @@ if (a + b < 4) {
 ```
   
 ```
-
+let result = (a + b < 4)? 'Below' : 'Over';
 ```
   
 
@@ -61,6 +77,9 @@ if (login == 'Employee') {
 ```
   
 ```
-
+let message = (login == 'Employee')? 'Hello':
+    (login == 'Director')? 'Greetings':
+    (login == '')? 'No login':
+    '';
 ```
   
