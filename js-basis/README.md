@@ -30,5 +30,9 @@ I'll link all the given assignment, so it will be more easly to follow the taks 
 5. Function:
     1. [random name](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions#functions_1)
     2. [draw rectangle](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions#functions_2)
-    3. [random name 2.0](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions#functions_3)
+    3. [random name V2](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions#functions_3)
     4. [arrow function](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Functions#functions_4)
+    5. [if-else required](https://javascript.info/task/if-else-required)
+    6. [pow](https://javascript.info/task/pow)
+    7. [minor](https://javascript.info/task/min)
+    8. [Rewrite using '?' or '||'](https://javascript.info/task/rewrite-function-question-or)
