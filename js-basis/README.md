@@ -35,4 +35,5 @@ I'll link all the given assignment, so it will be more easly to follow the taks 
     5. [if-else required](https://javascript.info/task/if-else-required)
     6. [pow](https://javascript.info/task/pow)
     7. [minor](https://javascript.info/task/min)
-    8. [Rewrite using '?' or '||'](https://javascript.info/task/rewrite-function-question-or)
+    8. [rewrite using '?' or '||'](https://javascript.info/task/rewrite-function-question-or)
+    9. [rewrite with arrow functions](https://javascript.info/arrow-functions-basics#rewrite-with-arrow-functions)
