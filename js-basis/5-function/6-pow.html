@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Functions: pow</title>
+</head>
+<body>
+  <script>
+    let base = parseFloat(prompt("Enter the base (x):"));
+    let exponent = parseInt(prompt("Enter the exponent (n):"));
+
+    if (base < 0 || exponent < 0 || isNaN(base) || isNaN(exponent)) {
+        alert('Please enter positive numbers.');
+    } else {
+        let result = pow(base, exponent);
+        alert(`The result of ${base} to the power of ${exponent} is ${result}.`)
+
+        //this is for the console, press f12 to the browser 
+        console.log(`Entered base: ${base}`);
+        console.log(`Entered exponent: ${exponent}`);
+        console.log(`Result: ${result}`);
+    }
+
+    function pow(x,n) {
+        let res = 1;
+        for (let i = 0; i < n; i++) {
+            res *= x;
+        }
+        return res;
+    }
+
+    
+  </script>
+</body>
+</html>
