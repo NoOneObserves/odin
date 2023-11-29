@@ -7,7 +7,14 @@
 <body>
   <script>
     // Write a function called `add7` that takes one number and returns that number + 7. Test the output with `console.log`
-    console.log("Hello, World!")
+    let number = parseInt(prompt("Enter a number: "));
+    let result = add7(number);
+
+    console.log(`${number} + 7 = ${result}`)
+
+    function add7(n) {
+      return n + 7
+    }
   </script>
 </body>
 </html>
