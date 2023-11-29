@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>Functions: Task 2</title>
+    <title>Functions: draw rectangle</title>
     <style>
       p {
         color: purple;
@@ -17,20 +17,16 @@
         border: 1px solid black;
       }
     </style>
-    <link rel="stylesheet" href="../styles.css" />
   </head>
 
   <body>
-
     <section class="preview">
-
     </section>
 
     <canvas width="480" height="320">
-
     </canvas>
-
   </body>
+
   <script>
     /*
     Create a function that draws a rectangle on the provided <canvas> (reference variable canvas, context available in ctx), based on the five provided input variables:
@@ -39,7 +35,6 @@
         width — the width of the rectangle.
         height — the height of the rectangle.
         color — the color of the rectangle.
-    You'll want to clear the canvas before drawing, so that when the code is updated in the case of the live version, you don't get lots of rectangles drawn on top of one another.
     */
     const canvas = document.querySelector('canvas');
     const ctx = canvas.getContext('2d');
@@ -51,9 +46,14 @@
     const color = 'blue';
 
     // Add your code here
+    function drawRectangle(rectangleX, rectangleY, rectangleWidth, rectangleHeight, rectangleColor) {
+      ctx.fillStyle = rectangleColor;
+      ctx.fillRect(rectangleX, rectangleY,rectangleWidth, rectangleHeight);
+    }
+
+    drawRectangle(x, y, width, height, color);
 
     // Don't edit the code below here!
-
     const section = document.querySelector('section');
   </script>
 
