@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>Functions: Task 3</title>
+    <title>Functions: random name version 2</title>
     <style>
       p {
         color: purple;
@@ -13,18 +13,13 @@
         box-sizing: border-box;
       }
     </style>
-    <link rel="stylesheet" href="../styles.css" />
   </head>
 
   <body>
-
     <section class="preview">
-
-
-
     </section>
-
   </body>
+
   <script>
     /*
     Return to the problem 1, with the aim of improving it. The three improvements we want you to make are:
@@ -36,11 +31,19 @@
     const para = document.createElement('p');
 
     // Add your code here
+    function random(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    function chooseName() {
+      const randomIndex = random(0, names.length-1);
+      para.textContent = names[randomIndex];
+    }
+
+    chooseName();
 
     // Don't edit the code below here!
-
     const section = document.querySelector('section');
-
     section.appendChild(para);
   </script>
 
