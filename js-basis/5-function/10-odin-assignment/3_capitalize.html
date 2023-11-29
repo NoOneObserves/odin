@@ -10,7 +10,12 @@
     Write a function called `capitalize` that takes a string and returns that string with ONLY the first letter capitalized. 
     Make sure that it can take strings that are lowercase, UPPERCASE or BoTh. Test the output with `console.log`
     */
-    console.log("Hello, World!")
+    
+    console.log(capitalize("lowercase"), capitalize("UPPERCASE"), capitalize("bOtH"))
+
+    function capitalize(str) {
+      return str.charAt(0).toUpperCase() + str.slice(1);
+    }
   </script>
 </body>
 </html>
