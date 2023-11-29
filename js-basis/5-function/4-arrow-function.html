@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8"/>
-    <title>Functions: Task 4</title>
+    <title>Functions: arrow function</title>
     <style>
       p {
         color: purple;
@@ -13,18 +13,13 @@
         box-sizing: border-box;
       }
     </style>
-    <link rel="stylesheet" href="../styles.css" />
   </head>
 
   <body>
-
     <section class="preview">
-
-
-
     </section>
-
   </body>
+
   <script>
     /*
     We have an array of names, and we're using Array.filter() to get an array of only names shorter than 5 characters. 
@@ -34,17 +29,19 @@
     const names = ['Chris', 'Li Kang', 'Anne', 'Francesca', 'Mustafa', 'Tina', 'Bert', 'Jada'];
     const para = document.createElement('p');
 
+    /* 
     function isShort(name) {
       return name.length < 5;
-    }
+    } 
+    */
+
+    let isShort = name => name.length < 5;
 
     const shortNames = names.filter(isShort);
     para.textContent = shortNames;
 
     // Don't edit the code below here!
-
     const section = document.querySelector('section');
-
     section.appendChild(para);
   </script>
 
