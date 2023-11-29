@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Capitalize</title>
+  <title>Last letter</title>
 </head>
 <body>
   <script>
@@ -11,7 +11,12 @@
         - `lastLetter("abcd")` should return "d"
     Test the output with `console.log`
     */
-    console.log("Hello, World!")
+    console.log(lastLetter("abcd"))
+
+    function lastLetter(str) {
+      return str.charAt(str.length - 1)
+      
+    }
   </script>
 </body>
 </html>
