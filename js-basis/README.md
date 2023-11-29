@@ -37,3 +37,4 @@ I'll link all the given assignment, so it will be more easly to follow the taks 
     7. [minor](https://javascript.info/task/min)
     8. [rewrite using '?' or '||'](https://javascript.info/task/rewrite-function-question-or)
     9. [rewrite with arrow functions](https://javascript.info/arrow-functions-basics#rewrite-with-arrow-functions)
+    10. [odin assignment](https://www.theodinproject.com/lessons/foundations-fundamentals-part-3#assignment)
